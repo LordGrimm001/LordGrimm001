@@ -1,7 +1,7 @@
   Hi there 👋
 
  🔭 I’m currently working on Myself ...
- 🌱 I’m currently learning and studyinh Bachelor of Science in Information Technology 
+ 🌱 I’m currently learning and studying Bachelor of Science in Information Technology 
 - 👯 I’m looking to collaborate on ... our Major Subject Projects
 - 🤔 I’m looking for help with ... our Project
 - 💬 Ask me about ... Anything I can help
